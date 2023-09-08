@@ -22,13 +22,13 @@ export default {
         {
           ssr: false,
           async: true,
-          src: 'https://b-js.ringba.com/CA5ba7594e2aa7403eb7660e9cca82fe17'
+          src: 'https://b-js.ringba.com/CA1349bcc1652d44cdb86bcb9d9c2c5ac9'
         },
       ]
     }
   },
   mounted(){
-    this.$store.commit('setPhone', '18556512580')
+    this.$store.commit('setPhone', '18557132954')
   }
 }
 </script>
