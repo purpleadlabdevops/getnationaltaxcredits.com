@@ -10,7 +10,7 @@ export default {
       { name: 'viewport', content: 'width=device-width, user-scalable=no, user-scalable=0, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0 user-scalable=0' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
-      { name: "facebook-domain-verification", content: "kiopg5rxifn74adikb3gbcqtbnreck" }
+      { name: "facebook-domain-verification", content: "11vfy1qacao0eofk6ubw9xbc4kw8oi" }
     ],
     link: [{ rel: 'icon', type: 'image/png', href: '/tnc-favicon.png' }],
     script: [
