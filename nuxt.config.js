@@ -25,14 +25,6 @@ export default {
       {
         ssr: false,
         async: true,
-        src: '/js/gtm_lam.js',
-        callback: () => {
-          console.log('GTM loaded')
-        }
-      },
-      {
-        ssr: false,
-        async: true,
         src: '/js/fb.js',
         callback: () => {
           console.log('FB loaded')
